@@ -1,6 +1,6 @@
 # ReionYugaPy
 
-This repository contains a Python wrapper for the C code, ReionYuga. The original code is located at https://github.com/rajeshmondal18/ReionYuga. 
+This repository contains a Python wrapper for the C code, ReionYuga (https://github.com/rajeshmondal18/ReionYuga).  
 
 For running this code, the outputs of N-body code (https://github.com/rajeshmondal18/N-body) and Friends-of-Friend Halo Finder(https://github.com/rajeshmondal18/FoF-Halo-finder) are needed.
 
