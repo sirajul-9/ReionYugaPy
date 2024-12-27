@@ -59,7 +59,7 @@ For example
 )
 </pre>
 
-Write the values of all the parameters and N-body and halo_catalog outputs' path in the file input_parameters.py.
+Write the values of all the parameters, redshifts and N-body and halo_catalogue outputs' path in the file "input_parameters.py".
 
 Then run the file build_funcs.py with 
 <pre>
