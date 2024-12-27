@@ -1,6 +1,6 @@
 # ReionYugaPy
 
-This repository contains a Python wrapper for the C code, ReionYuga. The original code is located at https://github.com/rajeshmondal18/ReionYuga.
+This repository contains a Python wrapper for the C code, ReionYuga. The original code is located at https://github.com/rajeshmondal18/ReionYuga. 
 
 For running this code, the outputs of N-body code (https://github.com/rajeshmondal18/N-body) and Friends-of-Friend Halo Finder(https://github.com/rajeshmondal18/FoF-Halo-finder) are needed.
 
@@ -34,7 +34,7 @@ For installing locally without root access:
 
 Download all the files in this repository as ZIP and extract. Or use the following command:
 <pre>
- git clone https://github.com/sirajul-9/ReionYuga-Py
+ git clone https://github.com/sirajul-9/ReionYugaPy
 </pre>
 
 If you have installed FFTW locally, edit the "build_funcs.py" file. Add the following arguments to the "ffi.set_source()" function:
